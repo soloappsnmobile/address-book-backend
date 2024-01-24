@@ -29,14 +29,14 @@ The Address Book Backend is designed to manage contact information efficiently. 
 - [Go installed on your machine.](https://golang.org/dl/)
 - [Git installed on your machine.](https://git-scm.com/downloads)
 - [PostgreSQL installed and running.](https://www.postgresql.org/download/)
-- [You can alternatively use ElephantSQL for a quick and free setup.](https://www.elephantsql.com/)
+- [You can alternatively use ElephantSQL for a quick and free DB setup.](https://www.elephantsql.com/)
 
 # Installation
 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/address-book-backend.git
+    git clone https://github.com/soloappsnmobile/address-book-backend.git
     cd address-book-backend
     ```
 
