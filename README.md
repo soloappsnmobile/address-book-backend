@@ -29,6 +29,7 @@ The Address Book Backend is designed to manage contact information efficiently. 
 - [Go installed on your machine.](https://golang.org/dl/)
 - [Git installed on your machine.](https://git-scm.com/downloads)
 - [PostgreSQL installed and running.](https://www.postgresql.org/download/)
+- [You can alternatively use ElephantSQL for a quick and free setup.](https://www.elephantsql.com/)
 
 # Installation
 
